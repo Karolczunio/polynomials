@@ -1,0 +1,5 @@
+bounds: 1.5, 5.75
+integrated using rectangles: 398.0963800718750000000, integrated using trapezoids: 398.472982
+integrated using rectangles: 50.55871187500000, integrated using trapezoids: 50.585626
+integrated using rectangles: 4439.613667866951185839843750000000, integrated using trapezoids: 4447.485348
+integrated using rectangles: 817.34567367632812500000, integrated using trapezoids: 818.129559
